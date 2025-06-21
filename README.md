@@ -1,4 +1,4 @@
-![Screenshot (80)](https://github.com/user-attachments/assets/d471c109-c233-46c8-990b-604e0b60eda6)# Proposal-Generator-Ai-Tool
+# Proposal-Generator-Ai-Tool
 An automated AI-driven tool that generates Client-ready Proposals, Legal Agreements, and Invoices from simple user input — complete with one-click Email Delivery, all powered by Streamlit and Gemini API.
 
 ---
