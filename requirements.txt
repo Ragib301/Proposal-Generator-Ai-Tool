@@ -1,0 +1,7 @@
+google-genai
+streamlit==1.22.0
+python-pptx
+python-docx
+python_docx_replace
+pandas
+json
